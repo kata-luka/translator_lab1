@@ -1,8 +1,8 @@
 # Таблиця лексем мови
 tableOfLanguageTokens = {'program': 'keyword', 'bye': 'keyword', 'print': 'keyword', 'input': 'keyword', 'if': 'keyword',
-                         'goto': 'keyword', 'for': 'keyword', 'then': 'keyword', 'int': 'keyword',
-                         'bool': 'keyword', 'real': 'keyword', '=': 'assign_op', '.': 'dot',
-                         ' ': 'ws', '\t': 'ws', '\n': 'nl', '-': 'add_op', '+': 'add_op', '*': 'mult_op',
+                         'fi': 'keyword', 'by': 'keyword', 'do': 'keyword', 'while': 'keyword', 'for': 'keyword',
+                         'then': 'keyword', 'int': 'keyword', 'bool': 'keyword', 'real': 'keyword', '=': 'assign_op',
+                         '.': 'dot', ' ': 'ws', '\t': 'ws', '\n': 'nl', '-': 'add_op', '+': 'add_op', '*': 'mult_op',
                          '/': 'mult_op', '(': 'brackets_op', ')': 'brackets_op', '{': 'punct', '}': 'punct',
                          ';': 'punct', '<': 'rel_op', '>': 'rel_op', '>=': 'rel_op', '<=': 'rel_op',
                          '==': 'rel_op', '^': 'pow_op'}
